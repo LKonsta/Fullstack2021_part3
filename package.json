@@ -1,11 +1,12 @@
 {
-  "name": "3.1_phonebook",
+  "name": "backend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.7.1",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "morgan": "^1.10.0",
     "react": "^17.0.1",
@@ -42,5 +43,17 @@
   "devDependencies": {
     "json-server": "^0.16.3",
     "nodemon": "^2.0.7"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LKonsta/Fullstack2021_part3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LKonsta/Fullstack2021_part3/issues"
+  },
+  "homepage": "https://github.com/LKonsta/Fullstack2021_part3#readme"
 }
