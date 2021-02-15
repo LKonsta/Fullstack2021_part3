@@ -1,3 +1,8 @@
+#This is part of the Helsinki university Fullstack 2021 course
+
+[Main github](https://github.com/LKonsta/FullStack-2021)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
