@@ -1,6 +1,8 @@
-#This is part of the Helsinki university Fullstack 2021 course
+# This is part of the Helsinki university Fullstack 2021 course
 
 [Main github](https://github.com/LKonsta/FullStack-2021)
+
+[Working heroku of part 3.10](https://peaceful-springs-15769.herokuapp.com/)
 
 
 # Getting Started with Create React App
